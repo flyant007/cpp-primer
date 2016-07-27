@@ -11,8 +11,10 @@ TEMPLATE = app
 QMAKE_CXXFLAGS += -std=c++0x
 
 
-SOURCES += main.cpp
+SOURCES += main.cpp \
+    exercise.cpp
 
-HEADERS  +=
+HEADERS  += \
+    exercise.h
 
 FORMS    +=
