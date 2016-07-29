@@ -5,6 +5,8 @@
 #include <vector>
 #include <fstream>
 #include <sstream>
+#include <list>
+#include <memory>
 
 using namespace std;
 
