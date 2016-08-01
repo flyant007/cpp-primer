@@ -15,6 +15,7 @@ SOURCES += main.cpp \
     exercise.cpp
 
 HEADERS  += \
-    exercise.h
+    exercise.h \
+    textquery.h
 
 FORMS    +=
